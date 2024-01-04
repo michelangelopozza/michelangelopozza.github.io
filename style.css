@@ -1,0 +1,9 @@
+/*Michelangelo Pozza IN0501059*/
+body { 
+    font-family:sans-serif; 
+}
+
+.testo {
+    width: 60%;
+    background-color: aqua;
+}
