@@ -1,0 +1,53 @@
+/*Michelangelo Pozza IN0501059*/
+div {
+    width: 60%;
+    margin: auto;
+}
+
+body {
+    background-image: url(/images/sfondo.jpg);
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#corpo_principale {
+    margin: auto;
+    text-align: center;
+}
+
+.immagini_index, .immagini_fumetti {
+    width: 30%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.immagini_film {
+    width: 300px;
+}
+
+th, td {
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+.bottoni {
+    border: 10%;
+    border-color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#links {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
