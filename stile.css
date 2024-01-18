@@ -18,16 +18,12 @@ table {
     text-align: center;
 }
 
-.immagini_index, .immagini_fumetti {
+.immagini_index, .immagini_fumetti, .immagini_film {
     width: 30%;
     margin-top: 3%;
     margin-bottom: 3%;
     margin-left: 2%;
     margin-right: 2%;
-}
-
-.immagini_film {
-    width: 300px;
 }
 
 th, td {
